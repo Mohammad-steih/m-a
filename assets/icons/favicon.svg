@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#FAF6F0" rx="4"/>
+  <!-- Gold diamond ornament -->
+  <polygon points="16,4 24,16 16,28 8,16" fill="none" stroke="#C9A96E" stroke-width="1.5" opacity="0.9"/>
+  <polygon points="16,8 21,16 16,24 11,16" fill="#C9A96E" opacity="0.35"/>
+  <circle cx="16" cy="16" r="2.5" fill="#C9A96E" opacity="0.8"/>
+  <!-- Small accent dots at diamond points -->
+  <circle cx="16" cy="4" r="1.2" fill="#C9A96E" opacity="0.7"/>
+  <circle cx="16" cy="28" r="1.2" fill="#C9A96E" opacity="0.7"/>
+  <circle cx="8" cy="16" r="1.2" fill="#C9A96E" opacity="0.7"/>
+  <circle cx="24" cy="16" r="1.2" fill="#C9A96E" opacity="0.7"/>
+</svg>
